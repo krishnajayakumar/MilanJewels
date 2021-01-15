@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- color's used in our project -->
+    <color name="appcolor">#900C3F</color>
+    <color name="black">#000</color>
+    <color name="gray">#808080</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="red">#E4431B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#228B22</color>
+    <color name="button_background_color">#925</color>
+</resources>

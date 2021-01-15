@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "919384215681",
+    "firebase_url": "https://warriorsgame-153cf.firebaseio.com",
+    "project_id": "warriorsgame-153cf",
+    "storage_bucket": "warriorsgame-153cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919384215681:android:b290100e0e27f744e47d80",
+        "android_client_info": {
+          "package_name": "com.example.WarriorsGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919384215681-2cse6582l0vbr4hrcjua7o9b03kb8lmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.WarriorsGame",
+            "certificate_hash": "152bb7ff4095e587b51454ad7d803ba5bcc8ed50"
+          }
+        },
+        {
+          "client_id": "919384215681-so2fgvprhgqj14b20tp68jj14u392be2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nPbFRwkopC5fJW7Wm79YhHNzLpKesiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919384215681-so2fgvprhgqj14b20tp68jj14u392be2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919384215681:android:1e23adbf53900853e47d80",
+        "android_client_info": {
+          "package_name": "com.example.fragmentapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919384215681-p8spg1bq65n31q9jt7k1a1ru172d72q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fragmentapplication",
+            "certificate_hash": "152bb7ff4095e587b51454ad7d803ba5bcc8ed50"
+          }
+        },
+        {
+          "client_id": "919384215681-so2fgvprhgqj14b20tp68jj14u392be2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nPbFRwkopC5fJW7Wm79YhHNzLpKesiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919384215681-so2fgvprhgqj14b20tp68jj14u392be2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

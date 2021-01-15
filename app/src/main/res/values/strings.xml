@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Milan Jwellers</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Email">Email</string>
+    <string name="Name">Name</string>
+    <string name="Number">Phone Number</string>
+    <string name="Password">Enter Password</string>
+    <string name="forgot"><u>Forgot Password ?</u></string>
+    <string name="settings_pwd_equal">Passwords Match</string>
+    <string name="settings_pwd_notequal">Passwords Does not Match</string>
+    <string name="Confirm">Confirm Password</string>
+    <string name="add">Add to Cart</string>
+    <string name="create">CREATE ACCOUNT</string>
+    <string name="login">LOGIN</string>
+    <string name="facebook_app_id">231922474897138</string>
+    <string name="fb_login_protocol_scheme">fb231922474897138</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

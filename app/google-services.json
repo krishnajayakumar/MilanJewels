@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772608291526",
+    "firebase_url": "https://milanjwellers-f54e4.firebaseio.com",
+    "project_id": "milanjwellers-f54e4",
+    "storage_bucket": "milanjwellers-f54e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772608291526:android:e9b9110229e2a035521dc7",
+        "android_client_info": {
+          "package_name": "com.example.MilanJwellers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772608291526-d3hg928lffm6fk82cnbsba7rokl095lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBam9_h1xtSzJN7VPNVIsld5nojBkW_D-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772608291526-d3hg928lffm6fk82cnbsba7rokl095lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
